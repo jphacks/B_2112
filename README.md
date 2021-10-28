@@ -25,9 +25,9 @@
 * TwitterAPI
 
 #### フレームワーク・ライブラリ・モジュール
-* Virtualenv
+- Virtualenv
 * Python3
- * Flask
+ - Flask
  * tweepy
  * Word Cloud
 * Mysql
