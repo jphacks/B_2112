@@ -26,7 +26,7 @@
 
 #### フレームワーク・ライブラリ・モジュール
 - Virtualenv
-* Python3
+- Python3
  - Flask
  * tweepy
  * Word Cloud
