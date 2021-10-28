@@ -28,11 +28,11 @@
 - Virtualenv
 - Python3
  - Flask
- * tweepy
+    - tweepy
  * Word Cloud
 * Mysql
 * Vue.js
- * Firebase
+    * Firebase
  * Bootstrap-vue
 
 #### デバイス
