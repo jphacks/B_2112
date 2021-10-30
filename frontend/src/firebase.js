@@ -2,13 +2,13 @@ import firebase from 'firebase/compat/app'
 import 'firebase/compat/auth'
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyCTmfZriKMDsW2XmfGiiEIbkqKQiX-7THg',
-  authDomain: 'jp-hackathon.firebaseapp.com',
-  projectId: 'jp-hackathon',
-  storageBucket: 'jp-hackathon.appspot.com',
-  messagingSenderId: '25602127455',
-  appId: '1:25602127455:web:7e5a3291e256902426cdea',
-  measurementId: 'G-RS4VJC0Q6H'
+  apiKey: '*',
+  authDomain: '*',
+  projectId: '*',
+  storageBucket: '*',
+  messagingSenderId: '*',
+  appId: '*',
+  measurementId: '*'
 }
 
 firebase.getCurrentUser = () => {
